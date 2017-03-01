@@ -1,5 +1,7 @@
 # testng-pipeline
 
+**DEPRECATED**: [lambdacd-testng](https://github.com/otto-de/lambdacd-testng) seems to no longer be maintained.
+
 Small demo on how to use [lambdacd-testng](https://github.com/otto-de/lambdacd-testng)
 
 ## Usage
